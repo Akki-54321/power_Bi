@@ -1,6 +1,6 @@
 # Power BI Map Chart – Sales by City
 
-![Sales by City Map](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/14.%20Bubble%20Map%20Visual/images/image3.png)
+![Sales by City Map](https://github.com/Akki-54321/power_Bi/tree/main/13.%20Scatter%20Plot)
 
 ## 📌 Overview
 

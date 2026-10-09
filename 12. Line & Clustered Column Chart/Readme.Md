@@ -15,7 +15,7 @@ The example in this project uses:
 
 ## 🖼️ Chart Used in This Project
 
-![Line and Clustered Column Chart](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/12.%20Line%20%26%20Clustered%20Column%20Chart/images/image09.png)
+![Line and Clustered Column Chart](https://github.com/Akki-54321/power_Bi/blob/main/05.%20Creating%20a%20Column%20Chart/Images/image05.png)
 
 ### What the chart shows
 

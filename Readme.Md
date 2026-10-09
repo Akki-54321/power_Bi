@@ -15,12 +15,12 @@ Each section contains:
 
 ## 📑 Table of Contents
 
-1. [Clustered Column Chart](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/07.%20Clustered%20Column%20%26%20Bar%20Chart/images/image08.png)
-2. [Clustered Bar Chart](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/07.%20Clustered%20Column%20%26%20Bar%20Chart/images/image09.png)
-3. [Line Chart](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/08.%20Line_%26_Area_Chart/images/image02.png)
-4. [Area Chart](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/08.%20Line_%26_Area_Chart/images/image03.png)
-5. [Ribbon Chart](images\image06.png)
-6. [Line and Stacked Column Chart](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/11.%20line%20%26%20stacked%20column%20chart/images/image09.png)
+1. [Clustered Column Chart](https://github.com/Akki-54321/power_Bi/blob/main/04.%20Data%20Visualization/Images/image.png)
+2. [Clustered Bar Chart](https://github.com/Akki-54321/power_Bi/blob/main/04.%20Data%20Visualization/Images/image01.png)
+3. [Line Chart](https://github.com/Akki-54321/power_Bi/blob/main/04.%20Data%20Visualization/Images/image02.png)
+4. [Area Chart](https://github.com/Akki-54321/power_Bi/blob/main/04.%20Data%20Visualization/Images/image03.png)
+5. [Ribbon Chart](https://github.com/Akki-54321/power_Bi/blob/main/05.%20Creating%20a%20Column%20Chart/Images/image05.png)
+6. [Line and Stacked Column Chart](https://github.com/Akki-54321/power_Bi/blob/main/06.%20Creating%20a%20Pie%20%26%20Donut%20Chart/images/image07.png)
 7. [Line and Clustered Column Chart](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/12.%20Line%20%26%20Clustered%20Column%20Chart/images/image09.png)
 8. [Scatter Plot](Images\image3.png)
 9. [Bubble Map](https://github.com/barrimanikanta34/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/14.%20Bubble%20Map%20Visual/images/image3.png)
